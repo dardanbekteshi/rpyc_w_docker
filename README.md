@@ -1,4 +1,4 @@
-# RPyC proof of concept using Docker
+# RPyC illustrated using Docker
 
 A simple example of using RPyC for remote procedure calls in Python using Docker
 
